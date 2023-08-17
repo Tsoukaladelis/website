@@ -11,7 +11,7 @@
             <pubDate>Thu, 17 Aug 2023 6:20:00 EST</pubDate>
             <link>https://tsoukaladelis.xyz/Essays/0x0000.html</link>
             <guid>https://tsoukaladelis.xyz/0000</guid>
-            <description>![CDATA[
+            <description><![CDATA[
     <p>
         I was never good at writing. Some say it takes a lot of reading, but 
         I have little faith in that reasoning. If reading meant you could write, 
@@ -62,7 +62,7 @@
         then again this blog is a product of its time. Actually, the word blog
         itself is already antiquated, as far as I know. Regardless, I hope you
         enjoy these posts and join me in this journey.
-    </p>]]</description>
+</p>]]></description>
             </item>
     </channel>
 </rss>
