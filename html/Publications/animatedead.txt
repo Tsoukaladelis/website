@@ -1,0 +1,9 @@
+@inproceedings{azad2023animatedead,
+    title={$\{$AnimateDead$\}$: Debloating Web Applications Using Concolic
+    Execution},
+    author={Azad, Babak Amin and Jahanshahi, Rasoul and Tsoukaladelis, Chris
+    and Egele, Manuel and Nikiforakis, Nick},
+    booktitle={32nd USENIX Security Symposium (USENIX Security 23)},
+    pages={5575--5591},
+    year={2023}
+}
