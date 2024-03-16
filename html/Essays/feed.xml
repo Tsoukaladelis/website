@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="https://tsoukaladelis.xyz/Essays/feed.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tsoukaladelis.xyz/html/Essays/feed.xml" rel="self" type="application/rss+xml" />
         <title>Chris Tsoukaladelis Essays</title>
-        <link>https://tsoukaladelis.xyz/Essays/</link>
+        <link>https://tsoukaladelis.xyz/html/Essays/</link>
         <description>Essays on things I find interesting</description>
         <language>en-us</language>
         <item>
             <title>Neo-Luddism in the era of AI</title>
             <pubDate>Wed, 13 Dec 2023 4:50:00 EST</pubDate>
-            <link>https://tsoukaladelis.xyz/Essays/0x0001.html</link>
-            <guid>https://tsoukaladelis.xyz/Essays/0001</guid>
+            <link>https://tsoukaladelis.xyz/html/Essays/0x0001.html</link>
+            <guid>https://tsoukaladelis.xyz/html/Essays/0001</guid>
             <description><![CDATA[
             <p>
             I would like to open this essay by saying that I am very strongly against
@@ -151,8 +151,8 @@
         <item>
             <title>Humble Beginnings</title>
             <pubDate>Thu, 17 Aug 2023 6:20:00 EST</pubDate>
-            <link>https://tsoukaladelis.xyz/Essays/0x0000.html</link>
-            <guid>https://tsoukaladelis.xyz/Essays/0000</guid>
+            <link>https://tsoukaladelis.xyz/html/Essays/0x0000.html</link>
+            <guid>https://tsoukaladelis.xyz/html/Essays/0000</guid>
             <description><![CDATA[
     <p>
         I was never good at writing. Some say it takes a lot of reading, but 
