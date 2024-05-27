@@ -1,0 +1,7 @@
+@inproceedings{tsoukaladelis2024articlemods,
+  title = {{Manufactured Narratives: On the Potential of Manipulating Social Media to Politicize World Events}},
+  author = {Chris Tsoukaladelis and Nick Nikiforakis},
+  booktitle = {Proceedings of the SecWeb Workshop (SecWeb)},
+  year = {2024},
+}
+
