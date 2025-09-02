@@ -1,0 +1,6 @@
+@inproceedings{kirchner2025webarchive,
+    title = {{The Power to Never Be Wrong: Evasions and Anachronistic Attacks Against Web Archives}},
+    author = {Robin Kirchner and Chris Tsoukaladelis and Martin Johns and Nick Nikiforakis},
+    booktitle = {Proceedings of the ACM Conference on Computer and Communications Security (CCS)},
+    year = {2025},
+  }

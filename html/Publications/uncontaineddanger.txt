@@ -1,0 +1,6 @@
+@inproceedings{tsoukaladelis2025docker,
+    title = {{Uncontained Danger: Quantifying Remote Dependencies in Containerized Applications}},
+    author = {Chris Tsoukaladelis and Roberto Perdisci and Nick Nikiforakis},
+    booktitle = {Proceedings of the 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID)},
+    year = {2025},
+  }
